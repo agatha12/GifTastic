@@ -1,8 +1,41 @@
 #results{
     width: 75%;
     background-color: white;
-
 }
+
 form {
     float: right;
+}
+#result {
+    font-size: 10px;
+}
+.gifs {
+    max-height: 300px;
+    max-width: 400px;
+
+} 
+ /* body{
+    margin: 0 auto;
+    width: 1000px;
+} */
+.display {
+    float: right;
+    margin: 10px;
+}
+.ser{
+    color: white;
+    background-color: teal;
+    border:2px;
+    margin:2px; 
+    font-weight: bolder
+}
+#submit {
+    color: white;
+    background-color: teal;
+    border:2px;
+    font-weight: bolder
+
+}
+p {
+    font-weight: bolder
 }
